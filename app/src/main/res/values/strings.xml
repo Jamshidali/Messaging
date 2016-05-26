@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Messaging</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recieve_sms">RecieveSmsActivity</string>
+    <string name="title_activity_send_sms">SendSmsActivity</string>
+    <string name="title_activity_receive_sms">ReceiveSmsActivity</string>
+    <string name="title_activity_sample_search">SampleSearchActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+
+</resources>
